@@ -1,5 +1,5 @@
 Hi my name is Herman Solem  
-🎓 Studying Industrial Economics and Technology Management at NTNU, Trondheim with a technological specialization in AI \n
+🎓 Studying Industrial Economics and Technology Management at NTNU, Trondheim with a technological specialization in AI <br>
 🌍  I'm based in Oslo, Norway  
 🧠  I'm learning Data-analysis and data-science  
 ⚡  I'm always looking to learn new stuff, but have really found a passion for BI Data-analysis and the visualisation that goes into BI.
