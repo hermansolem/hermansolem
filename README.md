@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Herman Solem  
-🎓 Computer Science Student  
+Hi my name is Herman Solem  
+🎓 Studying Industrial Economics and Technology Management at NTNU, Trondheim with a technological specialization in AI
 🌍  I'm based in Oslo, Norway  
 🧠  I'm learning Data-analysis and data-science  
 ⚡  I'm always looking to learn new stuff, but have really found a passion for BI Data-analysis and the visualisation that goes into BI.
